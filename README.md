@@ -5,5 +5,5 @@ i used this to learn how to use github
 
   Your King has taken up use of of github therefore so shall all of you.
  
-Yours royaly,
+  Yours royaly,
 King Bill.
